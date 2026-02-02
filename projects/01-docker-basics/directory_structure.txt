@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x  6 victor victor 4096 Feb  2 11:32 .
+drwxr-x--- 17 victor victor 4096 Feb  2 11:26 ..
+drwxr-xr-x  8 victor victor 4096 Feb  2 11:22 .git
+-rw-r--r--  1 victor victor  694 Feb  2 10:33 README.md
+drwxr-xr-x  3 victor victor 4096 Feb  2 10:29 automation
+-rw-r--r--  1 victor victor    0 Feb  2 11:32 directory_structure.txt
+drwxr-xr-x  3 victor victor 4096 Feb  2 10:29 documentation
+drwxr-xr-x  4 victor victor 4096 Feb  2 10:29 projects
